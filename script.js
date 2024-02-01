@@ -9,7 +9,6 @@ img.src ="SAADBG.png";
 image.style.height="10px";
 img.style.marginLeft ="450px";
 img.style.borderRadius = "50%";
-// img.style.boxShadow= "rgba(228, 247, 247,0.1)";
 body.appendChild(img);
 
 
